@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vocyl&label=Profile%20views&color=0e75b6&style=flat" alt="vocyl" /> </p>
 
-- 🔭 I’m currently working on **SocialMediaApp**
+- 🔭 I’m currently working on **NextBlogApp**
 
 - 🌱 I’m currently learning **NodeJs, Express, Next**
 
