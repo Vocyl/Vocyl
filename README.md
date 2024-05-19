@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vocyl&label=Profile%20views&color=0e75b6&style=flat" alt="vocyl" /> </p>
 
-- 🔭 I’m currently working on **NextBlogApp**
+- 🔭 I’m currently working on **E-commerce CMS**
 
-- 🌱 I’m currently learning **NodeJs, Express, Next**
+- 🌱 I’m currently learning **React-native**
 
-- 💬 Ask me about **React, Vite, Tailwind**
+- 💬 Ask me about **NextJs, React, Vite, Tailwind**
 
 <p align="left">
 </p>
