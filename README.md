@@ -12,7 +12,7 @@
 - 📫 How to reach me **erykkroliczek.kontakt@gmail.com**
 <p align="left">Realizations:</p>
 <p align="left">
-  1.<a href="https://swiftproxy.io" target="_blank" rel="noreferrer">SwiftProxy</a>
+  1. <a href="https://swiftproxy.io" target="_blank" rel="noreferrer">SwiftProxy</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
