@@ -10,9 +10,9 @@
 - 💬 Ask me about **NextJs, React, Vite, Tailwind**
 
 - 📫 How to reach me **erykkroliczek.kontakt@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<p align="left">Realizations:</p>
 <p align="left">
+  1.<a href="https://swiftproxy.io" target="_blank" rel="noreferrer">SwiftProxy</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
