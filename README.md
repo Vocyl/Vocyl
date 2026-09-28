@@ -12,15 +12,9 @@
 ---
 
 - 💼 **Experience:** 2+ years of commercial development in Full-Stack & Frontend roles.
-- 🔭 **Currently working on:** [Wpisz tu np. Freelance projects / NDA commercial projects / szukam nowych wyzwań]
-- 🌱 **Currently learning:** **[Wpisz np. Playwright / Drizzle ORM / Docker]** & Advanced Next.js Patterns
+- 🌱 **Currently learning**: Advanced Next.js Patterns
 - 💬 **Ask me about:** Next.js, React, TypeScript, and modern web architecture.
 - 📫 **How to reach me:** **erykkroliczek.kontakt@gmail.com**
-
-### 🚀 Selected Realizations / Portfolio:
-* *Most of my commercial work is under NDA, but here are some public projects:*
-1. <a href="https://swiftproxy.io" target="_blank" rel="noreferrer"><b>SwiftProxy</b></a> – [Krótki opis, np. Frontend architecture & integration]
-2. <a href="[Twój drugi link]" target="_blank" rel="noreferrer"><b>[Nazwa Projektu]</b></a> – [Krótki opis]
 
 ---
 
