@@ -45,9 +45,4 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vocyl&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="vocyl top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vocyl&show_icons=true&locale=en&cache_seconds=86400" alt="vocyl stats" />
-</p>
