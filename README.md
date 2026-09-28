@@ -48,6 +48,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vocyl&show_icons=true&locale=en&layout=compact" alt="vocyl top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vocyl&show_icons=true&locale=en" alt="vocyl stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vocyl&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="vocyl top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vocyl&show_icons=true&locale=en&cache_seconds=86400" alt="vocyl stats" />
 </p>
