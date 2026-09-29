@@ -12,9 +12,24 @@
 ---
 
 - 💼 **Experience:** 2+ years of commercial development in Full-Stack & Frontend roles.
-- 🌱 **Currently learning**: Advanced Next.js Patterns
+- 🌱 **Currently learning:** Advanced Next.js Patterns
 - 💬 **Ask me about:** Next.js, React, TypeScript, and modern web architecture.
 - 📫 **How to reach me:** **erykkroliczek.kontakt@gmail.com**
+
+---
+
+### 🚀 Commercial Realizations & Portfolio
+
+#### ⚡ Modern Web Apps (React / Next.js / Headless CMS)
+* <a href="https://swiftproxy.io" target="_blank" rel="noreferrer"><b>SwiftProxy</b></a> – Pełna refaktoryzacja i przebudowa serwisu na **Next.js** i **Tailwind CSS**, poprawna responsywność (RWD) oraz optymalizacja wydajności.
+* <a href="https://dev3.bioeco-shoes.com/" target="_blank" rel="noreferrer"><b>Bioeco-shoes</b></a> – Kompleksowe wdrożenie frontendu sklepu w **React** i **Next.js**, zintegrowanego z autorskim **Headless CMS** według dostarczonego projektu.
+* 🔒 **Commercial Web Applications (3 projects under NDA)** – Dedykowane aplikacje napisane od podstaw w **Next.js + React** połączone z **Headless CMS** (szczegóły do omówienia na rozmowie).
+
+#### 🛠️ Modernized Web Services (Twig / Tailwind CSS / CMS)
+* <a href="https://mr-digital.pl/" target="_blank" rel="noreferrer"><b>Mr Digital</b></a> – Kompleksowa przebudowa strony agencji z wykorzystaniem silnika **Twig** oraz **Tailwind CSS**.
+* <a href="https://oprawiamywramy.pl/" target="_blank" rel="noreferrer"><b>Oprawiamy w Ramy</b></a> & <a href="https://ramka.pl/" target="_blank" rel="noreferrer"><b>Ramka.pl</b></a> – Modernizacja i pełne przepisanie serwisów w oparciu o **Twig** i **Tailwind CSS**.
+* <a href="https://mocurody.pl/" target="_blank" rel="noreferrer"><b>Moc Urody</b></a> – Całkowite przepisanie i dostosowanie serwisu według projektu graficznego (**Twig / Tailwind**).
+* **Pozostałe wdrożenia i serwisy firmowe:** <a href="https://firanybachowice.pl/" target="_blank" rel="noreferrer">Firany Bachowice</a> | <a href="https://mochnik.com.pl/" target="_blank" rel="noreferrer">Mochnik</a> | <a href="https://www.colorimo.eu/" target="_blank" rel="noreferrer">Colorimo</a> | <a href="https://opolglass.com.pl/" target="_blank" rel="noreferrer">Opolglass</a> – Kodowanie i przebudowa szablonów według specyfikacji projektu.
 
 ---
 
@@ -44,5 +59,3 @@
   <b>Tools</b><br><br>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
-
-
