@@ -1,61 +1,115 @@
-<h1 align="center">Hi 👋, I'm Eryk</h1>
-<h3 align="center">Full-Stack & React Developer (Next.js / TypeScript) </h3>
+💀💀💀 WELCOME TO MY WEBSITE 💀💀💀
+
+<h1 align="center">🔥🔥🔥 HI!!! I'M ERYK!!! 🔥🔥🔥</h1>
+
+<h3 align="center">💻 PROFESSIONAL CODE WIZARD 💻</h3>
 
 <p align="center">
-  Programista webowy z ponad 2-letnim doświadczeniem komercyjnym. Specjalizuję się w budowaniu wydajnych, skalowalnych aplikacji przy użyciu nowoczesnego ekosystemu JavaScript/TypeScript. Większość moich komercyjnych projektów znajduje się w zamkniętych repozytoriach firmowych (stąd moje portfolio opiera się głównie na wdrożonych, działających produktach).
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
+<br>
+<b>🚨 WARNING: EXTREMELY DANGEROUS DEVELOPER 🚨</b>
+<br>
+I WRITE CODE. SOMETIMES IT WORKS. SOMETIMES IT DOESN'T.
+<br>
+<i>But hey, it compiles on my machine 😎</i>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vocyl&label=Profile%20views&color=0e75b6&style=flat" alt="vocyl" /> 
-</p>
+🧑‍💻 ABOUT ME (VERY IMPORTANT)
+👶 Experience: 2+ YEARS OF CLICKING KEYBOARDS PROFESSIONALLY
+🧠 Brain capacity: 100% JavaScript, 0% CSS centering
+🌱 Currently learning: How to stop using useEffect for everything
+🔥 Main weapon: Next.js
+💀 Weakness: Backend errors at 16:59 on Friday
+📫 EMAIL ME NOW!!!: erykkroliczek.kontakt@gmail.com
+🏆 MY INCREDIBLE ACHIEVEMENTS 🏆
+Achievement	Status
+Wrote console.log("hello")	✅
+Broke production	✅
+Fixed production	❌
+Googled an error	999999x
+Used any in TypeScript	🤫
+Centered a div	🏆 LEGENDARY
+🚀 MY SUPER MEGA PROJECTS 🚀
+⚡ 1. SWIFTPROXY
 
----
+<a href="https://swiftproxy.io">CLICK HERE OR ELSE!!!</a>
 
-- 💼 **Experience:** 2+ years of commercial development in Full-Stack & Frontend roles.
-- 🌱 **Currently learning:** Advanced Next.js Patterns
-- 💬 **Ask me about:** Next.js, React, TypeScript, and modern web architecture.
-- 📫 **How to reach me:** **erykkroliczek.kontakt@gmail.com**
+Technology: NEXT.JS 😱
+Tailwind CSS because writing CSS manually is illegal.
+Refactored the whole website.
+Made it responsive because mobile users exist apparently.
+👟 2. BIOECO SHOES
 
----
+<a href="https://dev3.bioeco-shoes.com/">SHOES SHOES SHOES!!!</a>
 
-### 🚀 Commercial Realizations & Portfolio
+React.
+Next.js.
+Headless CMS.
+I made the frontend. The shoes are not mine.
+🕵️ 3. SECRET PROJECTS
 
-#### ⚡ Modern Web Apps (React / Next.js / Headless CMS)
-* <a href="https://swiftproxy.io" target="_blank" rel="noreferrer"><b>SwiftProxy</b></a> – Pełna refaktoryzacja i przebudowa serwisu na **Next.js** i **Tailwind CSS**, poprawna responsywność (RWD) oraz optymalizacja wydajności.
-* <a href="https://dev3.bioeco-shoes.com/" target="_blank" rel="noreferrer"><b>Bioeco-shoes</b></a> – Kompleksowe wdrożenie frontendu sklepu w **React** i **Next.js**, zintegrowanego z autorskim **Headless CMS** według dostarczonego projektu.
-* 🔒 **Commercial Web Applications (3 projects under NDA)** – Dedykowane aplikacje napisane od podstaw w **Next.js + React** połączone z **Headless CMS** (szczegóły do omówienia na rozmowie).
+🔒 3 PROJECTS UNDER NDA.
 
-#### 🛠️ Modernized Web Services (Twig / Tailwind CSS / CMS)
-* <a href="https://mr-digital.pl/" target="_blank" rel="noreferrer"><b>Mr Digital</b></a> – Kompleksowa przebudowa strony agencji z wykorzystaniem silnika **Twig** oraz **Tailwind CSS**.
-* <a href="https://oprawiamywramy.pl/" target="_blank" rel="noreferrer"><b>Oprawiamy w Ramy</b></a> & <a href="https://ramka.pl/" target="_blank" rel="noreferrer"><b>Ramka.pl</b></a> – Modernizacja i pełne przepisanie serwisów w oparciu o **Twig** i **Tailwind CSS**.
-* <a href="https://mocurody.pl/" target="_blank" rel="noreferrer"><b>Moc Urody</b></a> – Całkowite przepisanie i dostosowanie serwisu według projektu graficznego (**Twig / Tailwind**).
-* **Pozostałe wdrożenia i serwisy firmowe:** <a href="https://firanybachowice.pl/" target="_blank" rel="noreferrer">Firany Bachowice</a> | <a href="https://mochnik.com.pl/" target="_blank" rel="noreferrer">Mochnik</a> | <a href="https://www.colorimo.eu/" target="_blank" rel="noreferrer">Colorimo</a> | <a href="https://opolglass.com.pl/" target="_blank" rel="noreferrer">Opolglass</a> – Kodowanie i przebudowa szablonów według specyfikacji projektu.
+I could tell you more, but then I'd have to delete your node_modules.
 
----
+🛠️ 4. OTHER STUFF I HAVE TOUCHED
+<a href="https://mr-digital.pl/">Mr Digital</a> – DIGITAL THINGS.
+<a href="https://oprawiamywramy.pl/">Oprawiamy w Ramy</a> – FRAMES.
+<a href="https://ramka.pl/">Ramka.pl</a> – MORE FRAMES.
+<a href="https://mocurody.pl/">Moc Urody</a> – BEAUTY.
+<a href="https://firanybachowice.pl/">Firany Bachowice</a> – CURTAINS.
+<a href="https://mochnik.com.pl/">Mochnik</a> – YES.
+<a href="https://www.colorimo.eu/">Colorimo</a> – COLORS.
+<a href="https://opolglass.com.pl/">Opolglass</a> – GLASS.
+💪 MY SKILLS 💪
+FRONTEND (I MAKE PIXELS MOVE)
+JavaScript ☕
+TypeScript 🤓
+React ⚛️
+Next.js ▲
+Tailwind CSS 🌪️
+HTML (THE BONES)
+CSS (THE PAIN)
+BACKEND (IT'S COMPLICATED)
+Node.js 🟢
+Express 🚂
+MySQL 🐬
+MongoDB 🍃
+Python 🐍
+OTHER MAGIC
+Git
+Googling
+Stack Overflow
+Ctrl + C
+Ctrl + V
+Ctrl + Z (MY BEST FRIEND)
+📊 MY TOTALLY REAL STATISTICS
+text
+Coffee consumed       ████████████████████ 999%
+Bugs created          ████████████████████ 100%
+Bugs fixed            ██                   10%
+Tabs open             ████████████████████ 847
+Motivation            ██                   12%
 
-<h3 align="center">Languages and Tools</h3>
+📢 IMPORTANT ANNOUNCEMENT
+
+I AM CURRENTLY AVAILABLE FOR:
+
+Writing code.
+Breaking code.
+Fixing code.
+Pretending I know Docker.
+Saying "it should work".
 
 <p align="center">
-  <b>Frontend & Styling</b><br><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <b>Backend & Databases</b><br><br>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-  <b>Tools</b><br><br>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<h2>🔥 THANKS FOR VISITING MY EPIC PROFILE 🔥</h2>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+<br><br>
+<b>YOU ARE VISITOR NUMBER:</b>
+<br>
+<img src="https://komarev.com/ghpvc/?username=vocyl&label=VICTIMS&color=ff0000&style=for-the-badge"/>
+<br><br>
+<i>© 2026 ERYK INDUSTRIES INC. ALL RIGHTS RESERVED. MAYBE.</i>
+<br>
+<marquee>🔥 BEST VIEWED ON INTERNET EXPLORER 6 🔥 THIS WEBSITE IS NOT RESPONSIBLE FOR ANY EMOTIONAL DAMAGE 🔥</marquee>
 </p>
